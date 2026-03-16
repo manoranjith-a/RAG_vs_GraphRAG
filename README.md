@@ -33,7 +33,8 @@ Your project folder should look like this:
     asrs_graph.pkl       <- Knowledge graph (25.9 MB)
     faiss_index.bin      <- FAISS vector index (178.8 MB)
     faiss_metadata.pkl   <- Incident metadata (96.0 MB)
-    Dataset files: Download from [https://drive.google.com/drive/folders/1Ij1pQMx_OlDVvNSfL5ayo3qd0bQATKq0?usp=sharing] and place in a Dataset/ folder inside the project directory before running.
+  
+Dataset files: Download from [https://drive.google.com/drive/folders/1Ij1pQMx_OlDVvNSfL5ayo3qd0bQATKq0?usp=sharing] and place in a Dataset/ folder inside the project directory before running.
 
 IMPORTANT: graphrag_app.py and graphrag_ui.html must be in the SAME folder.
            The Dataset/ folder must be directly inside that same folder.
